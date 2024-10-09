@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### Hibernate/JPA ###
-#src/main/java/shop/zubiri/videoclub/resources/hibernate.cfg.xml
+src/main/java/shop/zubiri/videoclub/resources/hibernate.cfg.xml
